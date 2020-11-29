@@ -3,7 +3,7 @@ This Model/WebApp predicts real estate price in Bangalore. Many times we have co
 
 ![App Demo](https://github.com/Kanaksahu/Real-Estate-Price-Prediction/blob/main/screen%20record/app.gif)
 ---
-![Postman Verification]('https://github.com/Kanaksahu/Real-Estate-Price-Prediction/blob/main/screen%20record/postman_verification.gif')
+![Postman Verification](https://github.com/Kanaksahu/Real-Estate-Price-Prediction/blob/main/screen%20record/postman.gif)
 ---
 # Technology Used
 1. Python
